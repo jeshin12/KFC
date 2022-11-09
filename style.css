@@ -1,0 +1,661 @@
+.header1
+{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    border-bottom:solid lightgrey;
+    border-bottom-width: 1px;
+  
+}
+
+.header1 img
+{
+    
+     width: 13px;
+     height: 16px;
+     margin-left: 495px;
+     margin-top: 17px;
+     float: left;
+}
+
+.location
+{
+    float: left;
+    margin-left: 10px;
+    font-weight: 110;
+}
+.button
+{
+    background-color: black;
+    width: 97px;
+    height: 30px;
+    border-radius: 135px;
+    margin-top: 9px;
+    margin-left: 15px;
+    
+}
+.set-location
+{
+     font-size: 11px;
+    font-weight: bold;
+    color: white;
+    margin-top: 5px;
+    text-align: center;
+    cursor: pointer;
+    
+}
+
+body{
+    margin: 0;
+}
+.logo
+{
+    width: 50%;
+    height: 99px;
+    background-color:rgb(255, 255, 255);
+    float: left;
+   
+    
+
+
+}
+.logo img{
+   
+
+    padding-left: 131px;
+    
+    margin-top: 42px;
+    width: 76px;
+    float: left;
+
+}
+
+
+.menu{
+    color: black;
+    padding-left: 42px;
+    padding-top: 32px;
+    font-weight: bold;
+    float: left;
+    font-size: 13px;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+.deals
+{
+    font-family: sans-serif;
+    font-weight: bold;
+    float: left;
+    font-size: 13px;
+    margin-left: 47px;
+    cursor: pointer;
+    margin-top: 46px
+    
+
+}
+.sign-IN
+{
+    width: 50%;
+    height: 99px;
+    background-color:rgb(255, 255, 255);
+    float: left;
+}
+.sign-IN img
+{
+    padding-left: 420px;
+    margin-top: 42px;
+}
+.sign{
+    font-size: 12px;
+    font-weight: 800;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 456px;
+    margin-top: -23px;
+    border-right:1px  solid lightgray ;
+    
+    padding-right: 4px;
+}
+
+.headerprice
+{
+    float: left;
+   
+    margin-top: -21px;
+    margin-left: 20px;
+    
+    font-size: smaller;
+}
+.kfc-bucket img
+{
+    width: 50px;
+    margin-left: 124px;
+    margin-top: -46px;
+    float: left;
+   
+}
+.header2
+{
+
+    width: 100%;
+    height: 76px;
+    background-color:#212529;
+    margin-top: 99px;
+}
+.headbottomtxt
+{
+    color: white;
+    font-family: fantasy;
+    margin-left: 516px;
+    padding-top: 26px;
+    font-size: revert;
+
+    
+}
+.main-headimg img
+{
+    width: -webkit-fill-available;
+
+}
+.start-order
+{
+   
+   background-color: #e4002b;
+    border: none;
+    width: 150px;
+    height: 46px;
+    color: white;
+    font-style: unset ;
+    font-size: revert;
+    font-weight: 700;
+    border-radius: 26px;
+    float: right;
+    margin-right: 506px;
+    margin-top: -49px;
+    cursor: pointer;
+    
+    
+}
+.start-order:hover
+{
+    background-color: #dc3545;
+}
+.header3
+{
+    
+    width: 100%;
+    height: 146px;
+    background-color: ghostwhite;
+    margin-top: -4px;
+   
+}
+.line1
+{
+    
+
+    width: 8px;
+    height: 22px;
+    background-color: #e4002b;
+    margin-left: 233px;
+    
+}
+.line2
+{
+    
+
+    width: 8px;
+    height: 22px;
+    background-color: #e4002b;
+    margin-left: 205px;
+    margin-top: -22px;
+    margin-bottom: -22px;
+   
+}
+.line3
+{
+    width: 8px;
+    height: 22px;
+    background-color: #e4002b;
+    margin-left: 218px;
+   
+}
+.welcometxt
+{
+    color: black;
+    margin-left: 205px;
+    margin-top: 49px;
+    font-weight: 1000;
+    font-size: xx-large;
+    font-family: sans-serif
+
+}
+.browse
+{
+    color: black;
+    font-weight: 100;
+    font-size: xx-large;
+    font-family: fantasy;
+    margin-left: 274px;
+    margin-top: 95px;
+
+
+}
+.line
+{
+    width: 791px;
+    height: 0px;
+    border-bottom: solid lightgrey;
+    margin-left: 579px;
+    margin-top: -52px;
+
+}
+.box-meal img
+{
+    width: 262px;
+    height: 200px;
+    margin-top: 85px;
+    margin-left: 1133px;
+    border-radius: 5px;
+    float: left;
+}
+.meal-button1
+{
+    border: none;
+    width: 264px;
+    height: 65px;
+    margin-left: 1132px;
+    margin-top: -6px;
+    color: black;
+    font-size: 14px;
+    font-weight: 800;
+    font-family: system-ui;
+    cursor: pointer;
+    
+    
+}
+.biriyani-bucket img
+{
+     width: 262px;
+    height: 200px;
+    margin-top:-259px;
+    margin-left:847px;
+    border-radius: 5px;
+    float: left;
+}
+
+.biriyani-button2
+{
+    border: none;
+    width: 264px;
+    height: 65px;
+    margin-left: 847px;
+    margin-top: -64px;
+    color: black;
+    font-size: 14px;
+    font-weight: 800;
+    font-family: system-ui;
+    float: left;
+    cursor: pointer;
+}
+.new-launch img
+{
+    width: 262px;
+    height: 200px;
+    margin-top: -260px;
+    margin-left: 563px;
+    border-radius: 5px;
+    float: left;
+}
+.new-launchbutton3
+{
+    border: none;
+    width: 264px;
+    height: 65px;
+    margin-left: 562px;
+    margin-top: -64px;
+    color: black;
+    font-size: 14px;
+    font-weight: 800;
+    font-family: system-ui;
+    float: left;
+    cursor: pointer;
+}
+.chicken-bucket img
+{
+    width: 262px;
+    height: 200px;
+    margin-top: -260px;
+    margin-right: 935px;
+    border-radius: 5px;
+    float: right;
+}
+
+.C-bucketbutton4               
+{
+    border: none;
+    width: 264px;
+    height: 65px;
+    margin-left: 274px;
+    margin-top: -64px;
+    color: black;
+    font-size: 14px;
+    font-weight: 800;
+    font-family: system-ui;
+    float: left;
+    cursor: pointer;
+}
+.box-goodlicking
+{
+    width: 263px;
+    height: 260px;
+    background-color: ghostwhite;
+    float: left;
+    margin-left: 595px;
+    margin-top: 21px;
+}
+.box-goodlicking img
+{
+    margin-left: 38px;
+    margin-top: 68px;
+    width: 207px;
+
+}
+.goodlicking
+{
+
+    width: 100px;
+    height: 62px;
+    color: black;
+    font-size: smaller;
+    font-weight: 700;
+    font-family: system-ui;
+    margin-left: 59px;
+    margin-top: 32px;
+}
+.arrow img
+{
+    width: 30px;
+    margin-top: -68px;
+    float: right;
+    margin-right: 69px;
+}
+.stay-home img
+{
+    width: 262px;
+    height: 200px;
+    margin-top: -260px;
+    margin-right: 362px;
+    border-radius: 5px;
+    float: right;
+}
+.stayhome-B5
+{
+    
+    border: none;
+    width: 264px;
+    height: 65px;
+    margin-left: 848px;
+    margin-top: -64px;
+    color: black;
+    font-size: 14px;
+    font-weight: 800;
+    font-family: system-ui;
+    float: left;
+    cursor: pointer;
+}
+.snacks img
+{
+    width: 262px;
+    height: 200px;
+    margin-top: -260px;
+    margin-right: 647px;
+    border-radius: 5px;
+    float: right;
+}
+.snaksButton5
+{
+    border: none;
+    width: 264px;
+    height: 65px;
+    margin-left: 562px;
+    margin-top: -64px;
+    color: black;
+    font-size: 14px;
+    font-weight: 800;
+    font-family: system-ui;
+    float: left;
+    cursor: pointer;
+}
+.burgers img
+{
+    width: 262px;
+    height: 200px;
+    margin-top: -260px;
+    margin-right: 935px;
+    border-radius: 5px;
+    float: right;
+}
+.burgersButton6
+{
+    border: none;
+    width: 264px;
+    height: 65px;
+    margin-left: 274px;
+    margin-top: -64px;
+    color: black;
+    font-size: 14px;
+    font-weight: 800;
+    font-family: system-ui;
+    float: left;
+    cursor: pointer;
+}
+.black-box
+{
+    width: 100%;
+    height: 668px;
+    background-color: #212529;
+    margin-top: 393px;
+}
+.bigline1
+{
+       width: 17px;
+    height: 45px;
+    background-color: #e4002b;
+    margin-left: 277px;
+}
+.bigline2
+{
+    width: 17px;
+    height: 45px;
+    background-color: #e4002b;
+    margin-left: 247px;
+    margin-top: -45px;
+}
+.bigline3
+{
+    width: 17px;
+    height: 45px;
+    background-color: #e4002b;
+    margin-left: 217px;
+    margin-top: -45px
+}
+.offers-txt
+{
+    
+    color: white;
+    font-family: system-ui;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 216px;
+    margin-top: 54px;
+}
+.menu2
+{
+    color: white;
+    margin-left: 1135px;
+    margin-top: -52px;
+    font-size: smaller;
+    font-weight: 700;
+    font-family: system-ui;
+
+}
+
+.offerimg1 img
+{
+    width: 320px;
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 981px;
+    margin-top: 11px;
+    cursor: pointer;
+
+}
+.offerimg2 img
+{
+    width: 320px;
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 618px;
+    float: left;
+    margin-top: -405px;
+    cursor: pointer;
+}
+.offerimg3 img
+{
+    width: 320px;
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 246px;
+    float: left;
+    margin-top: -405px;
+    cursor: pointer;
+}
+.footer
+{
+    width: 100%;
+    height: 436px;
+    background-color: #212529;
+}
+.apple-img img
+{
+    width: 108px;
+    margin-left: 1211px;
+    margin-top: 114px;
+    cursor: pointer;
+}
+.google-play img
+{
+    width: 108px;
+    margin-left: 1070px;
+    margin-top: -41px;
+    float: left;
+    cursor: pointer;
+}
+.KFC{
+    margin-right: 488px;
+    float: right;
+    margin-top: -39px;
+    color: white;
+    font-size: smaller;
+    font-family: system-ui;
+    cursor: pointer;
+    font-weight: 600;
+    
+
+}
+
+.kfc-finding img
+{
+    
+    width: 15px;
+    float: left;
+    margin-top: -36px;
+    margin-left: 899px
+}
+
+.nameR1
+{
+    color: white;
+    float: left;
+    margin-top: -36px;
+    margin-left: 722px;
+    font-size: smaller;
+    cursor: pointer;
+    font-family: system-ui;
+    font-weight: 600
+    
+}
+.nameR2
+{
+    color: white;
+    float: left;
+    margin-top: -173px;
+    margin-left: 565px;
+    font-size: smaller;
+    font-family: system-ui;
+    font-weight: 600;
+    cursor: pointer;
+}
+.nameR3
+{
+    color: white;
+    float: left;
+    margin-top: -173px;
+    margin-left: 450px;
+    font-size: smaller;
+    font-family: system-ui;
+    font-weight: 600;
+    cursor: pointer;
+}
+.nameR4
+{
+    color: white;
+    float: left;
+    margin-top: -173px;
+    margin-left: 293px;
+    font-size: smaller;
+    font-family: system-ui;
+    font-weight: 600;
+    cursor: pointer;
+}
+.lastKFC-bucketimg img
+{
+    margin-left: -707px;
+    margin-top: -35px;
+}
+.copyright
+{
+    color: #dbdbdb;
+    float: left;
+    margin-left: 528px;
+    margin-top: 99px;
+    font-size: small;
+    font-family: unset;
+}
+.APPimg1 img
+{
+    float: right;
+    margin-right: 159px;
+    margin-top: 95px;
+    cursor: pointer;
+}
+.APPimg2 img
+{
+    float: right;
+    margin-right: 11px;
+    margin-top: 96px;
+    cursor: pointer;
+}
+.APPimg3 img
+{
+    float: right;
+    margin-right: 11px;
+    margin-top: 96px;
+    cursor: pointer;
+}
+
+    
+    
+
+    
+
